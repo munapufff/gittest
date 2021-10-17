@@ -1,1 +1,3 @@
-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
+git remote add origin https://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@github.com/munapufff/gittest.git
+
+02
